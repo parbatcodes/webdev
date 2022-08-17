@@ -1,0 +1,23 @@
+main{
+    background-color: grey;
+    height: 500px;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+img{
+    border: 10px white solid;
+}
+
+h1{
+    text-align: center;
+}
+p{
+    padding-left: 100px;
+    padding-right: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
